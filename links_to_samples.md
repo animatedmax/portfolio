@@ -4,9 +4,14 @@
 
 [Installing the VMware Tanzu GemFire Session Management Extension](https://docs.vmware.com/en/VMware-GemFire-Session-Management/1.0/gsm/install_session_management.html)
 
-Recently, I was one of two writers who worked on the VMware Tanzu GemFire 10.0 release. This was the first major release in over six years and required close collaboration with engineers and product managers to edit, update, and revise over 1000 content files over a three-month period.
+Recently, I was one of two writers who worked on the VMware Tanzu GemFire 10.0 release.
+This was the first major release in over six years and required close collaboration with
+developers and product managers to edit, update, and revise over 1000 content files over
+a three-month period.
 
-GemFire is a high-speed, in-memory database used by large organizations for its high performance, scalability, event notification, and fault tolerance for low-latency, high-throughput applications.
+GemFire is a high-speed, in-memory database used by large organizations for its high
+performance, scalability, event notification, and fault tolerance for low-latency,
+high-throughput applications.
 
 For these samples, developers and product managers provided:
 
