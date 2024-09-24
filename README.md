@@ -1,2 +1,3 @@
-# portfolio
-Technical Writing Portfolio
+# Technical Writing Portfolio
+
+This repository contains examples of my work.
